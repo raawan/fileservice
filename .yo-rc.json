@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "kn.swift.ms.file",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "4.6.2",
+    "baseName": "MsSwiftFileApp",
+    "packageName": "kn.swift.ms.file",
+    "packageFolder": "kn/swift/ms/file",
+    "serverPort": "8088",
+    "authenticationType": "jwt",
+    "hibernateCache": "hazelcast",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSocialSignIn": false,
+    "jwtSecretKey": "0e2e6f3106ae47f61ed654e5b5d2f78f580cc15b",
+    "enableTranslation": true,
+    "applicationType": "microservice",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "clientPackageManager": "yarn"
+  }
+}
